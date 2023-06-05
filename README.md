@@ -1,4 +1,4 @@
-# PDF_Quizzer
+# Job Coach Question Answering
 
 PDF_Quizzer is an open-source AI solution that creates high-quality quizzes based on a given PDF, tailored to a designated skill level and background. The generated quizzes can be produced as text output or in a format suitable for Brightspace quiz import.
 
