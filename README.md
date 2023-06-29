@@ -16,7 +16,7 @@ This year, our primary objective is to enhance the model even further. Previousl
 
 ## Getting Started
 
-To use Job Coach QA, simply open it in Google Colab. It will take a few minutes to spin up and automatically install the required packages.
+To use Job Coach QA, simply open OpenAI website interface here: https://chat.openai.com/
 
 ## Contributing
 
