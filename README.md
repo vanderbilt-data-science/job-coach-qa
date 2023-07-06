@@ -19,11 +19,6 @@ This year, our primary objective is to enhance the model even further. Previousl
 This section provides a step-by-step guide to setting up and using Job Coach QA. We aim to make the setup process as straightforward as possible to make this tool accessible.
 
 ### Requirements
-To use Job Coach QA, you'll need:
-
-Internet connection
-A web browser
-
 To use Job Coach QA, you will need:
 - Internet connection
 - A web browser
