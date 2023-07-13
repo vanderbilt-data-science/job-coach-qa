@@ -86,16 +86,9 @@ To contribute to the project, please fork the repository and submit a pull reque
 
 We aim to create a welcoming and inclusive community where everyone can feel comfortable and valued, regardless of skill level, background, ability, or identity. To ensure a positive atmosphere, please adhere to our code of conduct and community guidelines.
 
-## Meetings
-
-- Sprint Planning: Mondays at 9 am
-- Backlog Grooming: Wednesdays at 10 am
-- Retrospective: Fridays at 9 am
-- Demos: Fridays at 3 pm
 
 ## Additional Resources
 
-- LangChain documentation
 - Introduction to transformers and generative AI on our [YouTube channel](https://www.youtube.com/channel/UC8C2_3L5gR9qLmL7rmb2BdQ)
 - AI Summer and AI Winter sessions (free and open to all)
 
@@ -109,5 +102,3 @@ If you encounter a bug, please submit an issue and label it with "Bug." To escal
 - Program: Data Science for Social Good
 - Main Email: [datascience@vanderbilt.edu](mailto:datascience@vanderbilt.edu)
 - Staff Lead: [myranda.shirk@vanderbilt.edu](mailto:myranda.shirk@vanderbilt.edu)
-
-Remember to replace "Staff lead and email" with the actual name and email address of the staff lead.
