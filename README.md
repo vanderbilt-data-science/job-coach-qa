@@ -108,7 +108,6 @@ If you encounter a bug, please submit an issue and label it with "Bug." To escal
 - Organization: Data Science Institute at Vanderbilt University
 - Program: Data Science for Social Good
 - Main Email: [datascience@vanderbilt.edu](mailto:datascience@vanderbilt.edu)
-- Staff Lead: [staff_lead@vanderbilt.edu](mailto:staff_lead@vanderbilt.edu)
+- Staff Lead: [myranda.shirk@vanderbilt.edu](mailto:myranda.shirk@vanderbilt.edu)
 
 Remember to replace "Staff lead and email" with the actual name and email address of the staff lead.
-
